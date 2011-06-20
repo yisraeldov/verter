@@ -1,4 +1,4 @@
-#Verter
+#Verter - ו װערטער
 
 # a flash card program
 
